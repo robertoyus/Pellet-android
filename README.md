@@ -8,7 +8,9 @@ For applications that need to represent and reason about information using OWL, 
 
 An OWL DL reasoner like Pellet is a core component of ontology-based data management applications; if you need expertise in the use of Pellet for advanced integration or analysis applications, Clark & Parsia LLC can help in a variety of roles: consulting, application development, and OEM licensing.
 
-Pellet has been developed by the <a href="http://clarkparsia.com/">Clark & Parsia Team</a>
+# Pellet
+
+This is a port of the Pellet reasoner developed by the <a href="http://clarkparsia.com/">Clark & Parsia Team</a>
 
 
 # Android goes Semantic ![alt text](http://sid.cps.unizar.es/AndroidSemantic/img/AndroidSemanticLogoSmall.png "Logo Android")
